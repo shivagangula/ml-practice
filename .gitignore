@@ -16,4 +16,5 @@ ipython_config.py
 #   git rm -r .ipynb_checkpoints/
 
 #ignore .DS_store
-*/.DS_Store/*
+**/.DS_Store
+
